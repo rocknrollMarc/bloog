@@ -52,7 +52,7 @@ group :development do
 	gem 'guard-cucumber'
 	gem 'guard-rails'
 	gem 'terminal-notifier-guard'
-	gem 'growl-ruby'
+	gem 'ruby-growl'
 
 	gem 'capybara'
 	gem 'factory_girl_rails'
