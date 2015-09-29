@@ -54,6 +54,12 @@ group :development do
 	gem 'terminal-notifier-guard'
 	gem 'ruby-growl'
 
+	gem 'meta_request'
+
+	gem 'passenger'
+
+	gem 'guard-passenger'
+
 	gem 'capybara'
 	gem 'factory_girl_rails'
 	gem 'database_cleaner'
